@@ -8,6 +8,33 @@ This is not a linear reading experience, but a network of possible paths. It's l
 
 I suggest you get an overview of the patterns by skimming each pattern's **problem statement** and **solution**, then research a specific path in more detail once you found out what resonates with you.
 
+# Reading the Book
+
+You can read the book online, for free:
+
+<https://ctietze.gitbooks.io/knowledge-work-pattern-language/content/>
+
+## Format of a Pattern
+
+0. Title and evidence rating
+1. Illustration of the pattern
+2. Introductory Paragraph: provide context; how does this pattern help complete larger patterns?
+3. Separator for the main part
+4. Essence of the pattern, 1--2 sentences
+5. Main body of text; description; empirical background; evidence; application
+6. Solution in instructional form
+7. Diagram
+8. Separator, ending the main part
+9. Context of smaller patterns to help implement, complete, fill this pattern
+
+### Evidence rating
+
+The number of stars indicate the rating:
+
+1. ★☆☆ Speculative: try solution for yourself, but don't just expect this to change your life
+2. ★★☆ Experimental: next step towards a solution, but no final advice; take advice with a grain of salt
+3. ★★★ Solid and true: pattern solves the problem at hand for all common cases
+
 # Contributing ❤️
 
 In short: _Yes, please!_
