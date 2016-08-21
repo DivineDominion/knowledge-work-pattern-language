@@ -68,4 +68,4 @@ Contributors:
 
 * _your name could be here_ 👍
 
-[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). See LICENSE file for details.
+[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). See [LICENSE](LICENSE.md) file for details.
