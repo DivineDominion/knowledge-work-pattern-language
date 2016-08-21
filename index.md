@@ -9,7 +9,7 @@
 4. Essence (1--2 sentences)
 5. Description: empirical background; evidence; application
 6. Solution: instructional form
-7. Diagramu
+7. Diagram
 8. (Separator)
 9. Context of smaller patterns to help implement, complete, fill this pattern
 
